@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "analog_clock", "analog_clock.vcxproj", "{59EC996D-6F68-4C49-8191-C29F4EE0A84C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64C641B6-E34E-404C-B981-3CC6257241CD}"
+	ProjectSection(SolutionItems) = preProject
+		2D_graphics.lib = 2D_graphics.lib
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EC996D-6F68-4C49-8191-C29F4EE0A84C}.Debug|x86.ActiveCfg = Debug|Win32
+		{59EC996D-6F68-4C49-8191-C29F4EE0A84C}.Debug|x86.Build.0 = Debug|Win32
+		{59EC996D-6F68-4C49-8191-C29F4EE0A84C}.Release|x86.ActiveCfg = Release|Win32
+		{59EC996D-6F68-4C49-8191-C29F4EE0A84C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90188A26-DD04-4741-8A12-E04E9CBD9595}
+	EndGlobalSection
+EndGlobal
